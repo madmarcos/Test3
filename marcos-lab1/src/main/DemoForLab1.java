@@ -44,7 +44,8 @@ public class DemoForLab1  {
 		//also talk about printf
 		double fakeSum = 12.850143;
 		System.out.printf("fake sum = %.1f%n", fakeSum);
-		System.out.println("done ");
+		System.out.println("done");
+		System.out.println("and done");
 	}
 
 }
