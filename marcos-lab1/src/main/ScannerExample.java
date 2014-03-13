@@ -25,7 +25,7 @@ public class ScannerExample {
 			else
 				System.out.println("You typed: " + line);
 		}
-		System.out.println("Finished");
+		System.out.println("Finished again");
 	}
 
 }
